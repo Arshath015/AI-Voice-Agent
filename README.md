@@ -206,3 +206,9 @@ opens at http://localhost:5173
 ## Author
 
 Arshath Farwyz | AI/ML Engineer
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
